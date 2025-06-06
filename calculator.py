@@ -1,26 +1,3 @@
-"""a = int(input("Enter Num1:"))
-b = int(input("Enter Num2:"))
-operator = input("Which opertion do you want to perform?")
-
-if operator == '+':
-    sum = a + b
-    print(sum)
-
-elif operator == '-':
-    difference = a - b
-    print(difference)
-
-elif operator == '*':
-    product = a * b
-    print(product)
-
-elif operator == '/':
-    divide = a / b
-    print(divide)
-
-else:
-    print("Enter operator correctly")"""
-
 def addition(a, b):
     return a + b
 
